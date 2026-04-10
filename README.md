@@ -1,4 +1,5 @@
 🚀 NoFeeSwap - Full-Stack Web3 Engineer Assignment
+
 https://img.shields.io/badge/license-MIT-blue.svg
 https://img.shields.io/badge/Hardhat-2.22.0-yellow
 https://img.shields.io/badge/React-18.2.0-61dafb
@@ -215,6 +216,8 @@ text
    3️⃣ Back-run (1.35 Gwei)
    ✅ Sandwich complete!
 📁 Project Structure
+
+
 text
 nofeeswap-assignment/
 ├── packages/
@@ -254,6 +257,8 @@ nofeeswap-assignment/
 ├── docker-compose.yml           # Container orchestration
 ├── package.json                 # Root package.json
 └── README.md                    # This file
+
+
 🧪 Testing
 Run Contract Tests
 bash
@@ -294,7 +299,11 @@ cat packages/contracts/deployment.json
 
 # Check bot logs
 tail -f packages/bot/logs/bot.log
+
+
 📊 Architecture Overview
+
+
 Sandwich Attack Flow
 text
 ┌─────────────────────────────────────────────────────────────────┐
